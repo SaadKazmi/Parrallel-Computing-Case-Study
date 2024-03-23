@@ -1,5 +1,13 @@
 # Speeding Up Matrix Multiplication
 
+# Text File requriements
+
+1 opcode
+1 matrix A type
+4096 4096 matrix A dimensions
+1 matrix B type
+4096 4096 matrix B dimensions
+
 ## Objective
 
 The goal of this case study is to optimize a serial code using techniques discussed in lectures to achieve faster execution times.
@@ -34,7 +42,7 @@ For this case study, square matrices of dimension 4096 X 4096 will be used. The 
 - Use a Linux-based computer for consistency and support.
 - Virtual machines or Docker can be utilized if Linux is not available locally.
 
-**Note:** Assistance may be limited for non-Linux systems.
+**Note:** Assistance may be limited for non-Linux systems.(Remember to make your own input and output txt files)
 
 ## Conclusion
 
