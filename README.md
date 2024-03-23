@@ -23,7 +23,7 @@ Efficient matrix multiplication is key to enhancing performance and enabling hig
 
 ## Hardware Selection
 
-You are required to select target hardware for optimization, preferably a recent machine like your laptop or a lab machine. Consistency in hardware usage is necessary for accurate performance evaluation.
+Select target hardware for optimization, preferably a recent machine like your laptop or a lab machine. Consistency in hardware usage is necessary for accurate performance evaluation.
 
 ## Input Specifications
 
