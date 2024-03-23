@@ -2,11 +2,11 @@
 
 # Text File requriements
 
-1 opcode
-1 matrix A type
-4096 4096 matrix A dimensions
-1 matrix B type
-4096 4096 matrix B dimensions
+1.  1 is opcode
+2.  1 for matrix A type
+3.  4096 4096 matrix A dimensions
+4.  1 for matrix B type
+5.  4096 4096 matrix B dimensions
 
 ## Objective
 
