@@ -2,10 +2,10 @@
 
 ## Objective
 
-The goal of this assignment is to optimize a serial code using techniques discussed in lectures to achieve faster execution times.
+The goal of this case study is to optimize a serial code using techniques discussed in lectures to achieve faster execution times.
 The primary focus will be on optimizing matrix multiplication, a fundamental operation with applications in various fields like Deep Learning, Computer Graphics, and Scientific Computing.
 
-1. **Report:** A detailed report documenting your approach, challenges faced, and solutions implemented to improve code performance. Include specific answers to the assignment questions.
+1. **Report:** A report documenting approach, challenges faced, and solutions implemented to improve code performance.
 2. **Code:** My optimized code along with a README providing instructions for execution.
 
 ## Why Matrix Multiplication Matters
@@ -27,7 +27,7 @@ You are required to select target hardware for optimization, preferably a recent
 
 ## Input Specifications
 
-For this assignment, square matrices of dimension 4096 X 4096 will be used. The program should accept an input file path and generate output in a specified file, ensuring separate reporting of IO times.
+For this case study, square matrices of dimension 4096 X 4096 will be used. The program should accept an input file path and generate output in a specified file.
 
 ## Recommendations
 
@@ -38,4 +38,4 @@ For this assignment, square matrices of dimension 4096 X 4096 will be used. The 
 
 ## Conclusion
 
-This assignment provides a practical opportunity to apply optimization techniques, enhancing understanding and proficiency in high-performance computing. Efficient matrix multiplication serves as a foundational element in accelerating computations across diverse fields.
+This case study provides a practical opportunity to apply optimization techniques, enhancing understanding and proficiency in high-performance computing. Efficient matrix multiplication serves as a foundational element in accelerating computations across diverse fields.
